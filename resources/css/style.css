@@ -68,7 +68,7 @@ nav ol {
 nav a {
   text-decoration: none;
   color: inherit;
-
+  transition: color 250ms linear 250ms;
 }
 
 nav a:hover,

@@ -44,6 +44,7 @@ nav {
 
 nav:hover {
   left: 0;
+  transition: left 750ms linear 250ms;
 }
 
 nav .hover-content {
@@ -247,6 +248,7 @@ header h2 {
 }
 
 .button:hover {
+  transition: opacity 250ms ease-in 250ms;
   opacity: 1;
 }
 
